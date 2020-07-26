@@ -1,4 +1,10 @@
-# AngularHeroes
+# [angular-heroes](https://angular.tw/tutorial)
+
+## environment
+- [macOS 10.15.5](https://www.apple.com/tw/macos/catalina/)
+- [WebStorm 2020.1.2](https://www.jetbrains.com/webstorm/)
+- [nvm 0.35.3, node 12.18.1, npm 6.14.5](https://nodejs.org/en/)
+- [Angular CLI 10.0.4](https://cli.angular.io/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
